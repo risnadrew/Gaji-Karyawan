@@ -1,0 +1,8 @@
+body{
+    background-image: url(bc.png);
+    background-size: cover;
+}
+.container{
+    padding-top: 110px;
+    font-family: cursive;
+}

@@ -1,0 +1,8 @@
+body{
+    background-image: url(bg.png);
+    background-size: cover;
+}
+.container{
+    padding-top: 247px ;
+    font-family:'Times New Roman', Times, serif;
+} 
